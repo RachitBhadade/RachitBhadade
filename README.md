@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm currently working on CreditPathAI (ML based) project as an AI/ML Intern at Infosys Springboard.<br>I'm on skilling up my Data Science / AI&ML knowledge.<br>Looking for great breakthrough in Data Professional job roles.
+# 💫 Hi!, I am Rachit
+
+I'm currently working on Data Science /AI&ML based projects as an AI/ML Intern at Infosys Springboard.<br>I'm on skilling up my Data Science / AI&ML knowledge.<br>Looking for great breakthrough in Data Professional job roles.
 
 
 ## 🌐 Socials:
